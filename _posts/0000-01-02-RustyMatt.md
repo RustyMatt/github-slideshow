@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is a test! I'm learning!
+I don't know why I need to tell this to a robot :D
 Use the left arrow to go back!
